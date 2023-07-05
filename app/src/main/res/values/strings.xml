@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simpson Character Viewer</string>
+    <string name="lbl_search">Search</string>
+</resources>
